@@ -176,7 +176,8 @@ body {
 
 .graph {
     display: block;
-    position: absolute;
+    margin: auto;
+    /* position: absolute; */
     background-color: #fff;
     text-rendering: geometricPrecision;
     user-select: none;
